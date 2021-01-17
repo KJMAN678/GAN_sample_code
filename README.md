@@ -21,3 +21,6 @@
   - [PytorchでPGGANを実装する](https://tzmi.hatenablog.com/entry/2020/05/07/230232)
   - Pytorchを使用
   - 重すぎてGoogle Colabがクラッシュする
+
+- [Generative Adversarial Networks (GANs)専門講座](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+
